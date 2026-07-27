@@ -33,6 +33,11 @@ In the accompanying study, GeoCopilot was evaluated on 90 geospatial analysis ta
 
 MIT
 
+## Links
+
+- Plugin homepage: https://zhoums396.github.io/GeoCopilot/
+- OpenGeoLab: https://geomodeling.njnu.edu.cn/OpenGeoLab/jupyter
+
 ## Dataset
 
 The GeoCopilot evaluation dataset is available on Zenodo: https://zenodo.org/records/21450280
