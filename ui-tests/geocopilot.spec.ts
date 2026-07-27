@@ -131,6 +131,10 @@ async function mockAgentApi(page: Page, state: MockState): Promise<void> {
 
 async function openPanel(page: Page): Promise<void> {
   await page.goto(labUrl);
+  await page.addStyleTag({
+    content:
+      '#react-toastify-container, #react-toastify-container * { pointer-events: none !important; }'
+  });
   const news = page.getByRole('button', { name: 'No', exact: true });
   if (await news.isVisible({ timeout: 1_000 }).catch(() => false)) {
     await news.click();
