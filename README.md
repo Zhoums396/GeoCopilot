@@ -27,7 +27,7 @@ GeoCopilot is intended to reduce the burden of procedural execution and repair, 
 
 In the accompanying study, GeoCopilot was evaluated on 90 geospatial analysis tasks. It achieved a **98.9% task-completion rate**, required an average of **1.38 human–agent interaction rounds** per task, and performed about **25 internal operations and tool calls** for each researcher request.
 
-> Zhou, M., Ma, P., Xie, W., Sheng, T., Wen, Y., Yue, S., Lv, G., & Chen, M. (2026). *GeoCopilot: Accelerating Geospatial Analysis Tasks with Autonomous Computational Workspace*.
+> Zhou, M., Ma, P., Xie, W., Sheng, T., Wen, Y., Yue, S., Lv, G., & Chen, M. (2026). *Autonomous Computational Workspace Can Accelerate Geospatial Analysis through a Reasoning-Execution-Observation Loop*.
 
 ## License
 
